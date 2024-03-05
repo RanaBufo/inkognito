@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ePevI1pwVYTSlkd4br28S9bbll3f0/RSOQiPmvHf5ikqMU2rhMILi8MRdRDGFZA3mcBr2ACn2PldxF4iDLyH2g==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\lab2\\lab2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GuraL\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\GuraL\\.nuget\\packages\\system.data.odbc\\8.0.0\\system.data.odbc.8.0.0.nupkg.sha512",
+    "C:\\Users\\GuraL\\.nuget\\packages\\system.data.oledb\\8.0.0\\system.data.oledb.8.0.0.nupkg.sha512",
+    "C:\\Users\\GuraL\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\GuraL\\.nuget\\packages\\system.diagnostics.performancecounter\\8.0.0\\system.diagnostics.performancecounter.8.0.0.nupkg.sha512",
+    "C:\\Users\\GuraL\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512",
+    "C:\\Users\\GuraL\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
